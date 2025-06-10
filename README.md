@@ -9,3 +9,7 @@ This project detects cars in real-time using YOLOv8 and recognizes Indian car br
   - Webcam
   - IP Camera (CCTV / Mobile via IP Webcam)
   - Video files
+ 
+# Usage
+```bash
+python main.py
