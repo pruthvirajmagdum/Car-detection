@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs and debug outputs
+debug_crops/
+*.log
+
+# Python virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Dataset and model weights
+*.pth
+datasets/
+*.mp4
+*.avi
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
