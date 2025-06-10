@@ -1,5 +1,5 @@
 # Car Recognition System
-This project detects cars in real-time using YOLOv8 and recognizes Indian car brand and  using a custom-trained ResNet18 classifier. It also detects the car's color using OpenCV.
+This project detects cars in real-time using YOLOv8 and recognizes Indian car brand and color  using a custom-trained ResNet18 classifier. It also detects the car's color using OpenCV.
 
 # Features
 - YOLOv8-based vehicle detection
